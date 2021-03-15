@@ -1,0 +1,272 @@
+[
+  {
+    "meta": {
+      "participant": {
+        "username": "User1"
+      },
+      "time": {
+        "timePeriodStart": "1615158000",
+        "timePeriodEnd": "1615244399",
+        "day": "2021-03-08"
+      }
+    },
+    "measurementReport": {
+      "types": [
+        {
+          "meta": {
+            "type": "TypeMeasurementAggregate",
+            "identifier": "BATTERY"
+          },
+          "time": {
+            "timePeriodStart": "1615158000",
+            "timePeriodEnd": "1615244399",
+            "day": "2021-03-08"
+          },
+          "missing": { "amount": 3, "max": 0, "avr": 0 },
+          "delay": { "amount": 2, "max": 108, "avr": 79 }
+        }
+      ],
+      "categories": [
+        {
+          "meta": {
+            "type": "CategoryMeasurementAggregate",
+            "identifier": "LOCAL"
+          },
+          "time": {
+            "timePeriodStart": "1615158000",
+            "timePeriodEnd": "1615244399",
+            "day": "2021-03-08"
+          },
+          "missing": { "amount": 0, "max": 0, "avr": 0 },
+          "delay": { "amount": 6, "max": 201, "avr": 82 }
+        }
+      ]
+    }
+  },
+
+  {
+    "meta": {
+      "participant": {
+        "username": "User2"
+      },
+      "time": {
+        "timePeriodStart": "1615158000",
+        "timePeriodEnd": "1615244399",
+        "day": "2021-03-08"
+      }
+    },
+    "measurementReport": {
+      "types": [
+        {
+          "meta": {
+            "type": "TypeMeasurementAggregate",
+            "identifier": "BATTERY"
+          },
+          "time": {
+            "timePeriodStart": "1615158000",
+            "timePeriodEnd": "1615244399",
+            "day": "2021-03-08"
+          },
+          "missing": { "amount": 96, "max": 86399, "avr": 899.98 },
+          "delay": { "amount": 0, "max": 0, "avr": 0 }
+        },
+        {
+          "meta": {
+            "type": "TypeMeasurementAggregate",
+            "identifier": "GENERATION_UNCONTROLLABLE"
+          },
+          "time": {
+            "timePeriodStart": "1615158000",
+            "timePeriodEnd": "1615244399",
+            "day": "2021-03-08"
+          },
+          "missing": { "amount": 96, "max": 86399, "avr": 899.98 },
+          "delay": { "amount": 0, "max": 0, "avr": 0 }
+        },
+        {
+          "meta": {
+            "type": "TypeMeasurementAggregate",
+            "identifier": "LOAD_UNCONTROLLABLE"
+          },
+          "time": {
+            "timePeriodStart": "1615158000",
+            "timePeriodEnd": "1615244399",
+            "day": "2021-03-08"
+          },
+          "missing": { "amount": 96, "max": 86399, "avr": 899.98 },
+          "delay": { "amount": 0, "max": 0, "avr": 0 }
+        }
+      ],
+      "categories": [
+        {
+          "meta": {
+            "type": "CategoryMeasurementAggregate",
+            "identifier": "LOCAL"
+          },
+          "time": {
+            "timePeriodStart": "1615158000",
+            "timePeriodEnd": "1615244399",
+            "day": "2021-03-08"
+          },
+          "missing": { "amount": 96, "max": 86399, "avr": 899.98 },
+          "delay": { "amount": 0, "max": 0, "avr": 0 }
+        },
+        {
+          "meta": {
+            "type": "CategoryMeasurementAggregate",
+            "identifier": "PV"
+          },
+          "time": {
+            "timePeriodStart": "1615158000",
+            "timePeriodEnd": "1615244399",
+            "day": "2021-03-08"
+          },
+          "missing": { "amount": 96, "max": 86399, "avr": 899.98 },
+          "delay": { "amount": 0, "max": 0, "avr": 0 }
+        }
+      ]
+    }
+  },
+
+  {
+    "meta": {
+      "participant": {
+        "username": "User3"
+      },
+      "time": {
+        "timePeriodStart": "1615158000",
+        "timePeriodEnd": "1615244399",
+        "day": "2021-03-08"
+      }
+    },
+    "measurementReport": {
+      "types": [
+        {
+          "meta": {
+            "type": "TypeMeasurementAggregate",
+            "identifier": "GENERATION_CONTROLLABLE"
+          },
+          "time": {
+            "timePeriodStart": "1615158000",
+            "timePeriodEnd": "1615244399",
+            "day": "2021-03-08"
+          },
+          "missing": { "amount": 3, "max": 86399, "avr": 899.98 },
+          "delay": { "amount": 96, "max": 86399, "avr": 899.98 }
+        }
+      ],
+      "categories": [
+        {
+          "meta": {
+            "type": "CategoryMeasurementAggregate",
+            "identifier": "LOCAL"
+          },
+          "time": {
+            "timePeriodStart": "1615158000",
+            "timePeriodEnd": "1615244399",
+            "day": "2021-03-08"
+          },
+          "missing": { "amount": 96, "max": 86399, "avr": 899.98 },
+          "delay": { "amount": 96, "max": 86399, "avr": 899.98 }
+        }
+      ]
+    }
+  },
+
+  {
+    "meta": {
+      "participant": {
+        "username": "User4"
+      },
+      "time": {
+        "timePeriodStart": "1615158000",
+        "timePeriodEnd": "1615244399",
+        "day": "2021-03-08"
+      }
+    },
+    "measurementReport": {
+      "types": [
+        {
+          "meta": {
+            "type": "TypeMeasurementAggregate",
+            "identifier": "BATTERY"
+          },
+          "time": {
+            "timePeriodStart": "1615158000",
+            "timePeriodEnd": "1615244399",
+            "day": "2021-03-08"
+          },
+          "missing": { "amount": 96, "max": 86399, "avr": 899.98 },
+          "delay": { "amount": 21, "max": 322, "avr": 231 }
+        },
+        {
+          "meta": {
+            "type": "TypeMeasurementAggregate",
+            "identifier": "GENERATION_UNCONTROLLABLE"
+          },
+          "time": {
+            "timePeriodStart": "1615158000",
+            "timePeriodEnd": "1615244399",
+            "day": "2021-03-08"
+          },
+          "missing": { "amount": 96, "max": 86399, "avr": 899.98 },
+          "delay": { "amount": 21, "max": 322, "avr": 231 }
+        },
+        {
+          "meta": {
+            "type": "TypeMeasurementAggregate",
+            "identifier": "GENERATION_CONTROLLABLE"
+          },
+          "time": {
+            "timePeriodStart": "1615158000",
+            "timePeriodEnd": "1615244399",
+            "day": "2021-03-08"
+          },
+          "missing": { "amount": 96, "max": 86399, "avr": 899.98 },
+          "delay": { "amount": 21, "max": 322, "avr": 231 }
+        },
+        {
+          "meta": {
+            "type": "TypeMeasurementAggregate",
+            "identifier": "LOAD_UNCONTROLLABLE"
+          },
+          "time": {
+            "timePeriodStart": "1615158000",
+            "timePeriodEnd": "1615244399",
+            "day": "2021-03-08"
+          },
+          "missing": { "amount": 96, "max": 86399, "avr": 899.98 },
+          "delay": { "amount": 21, "max": 322, "avr": 231 }
+        }
+      ],
+      "categories": [
+        {
+          "meta": {
+            "type": "CategoryMeasurementAggregate",
+            "identifier": "LOCAL"
+          },
+          "time": {
+            "timePeriodStart": "1615158000",
+            "timePeriodEnd": "1615244399",
+            "day": "2021-03-08"
+          },
+          "missing": { "amount": 9, "max": 4639, "avr": 899 },
+          "delay": { "amount": 21, "max": 322, "avr": 231 }
+        },
+        {
+          "meta": {
+            "type": "CategoryMeasurementAggregate",
+            "identifier": "PV"
+          },
+          "time": {
+            "timePeriodStart": "1615158000",
+            "timePeriodEnd": "1615244399",
+            "day": "2021-03-08"
+          },
+          "missing": { "amount": 9, "max": 4639, "avr": 899 },
+          "delay": { "amount": 21, "max": 322, "avr": 231 }
+        }
+      ]
+    }
+  }
+]
